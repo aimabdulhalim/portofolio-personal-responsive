@@ -1,10 +1,12 @@
 HEADER
 MAIN
  Home
+ Portfolio
  About Me
  Skill And Certification
- Portfolio
  Education
- Organization Experience
+ Experience
  Contact Me
 FOOTER
+
+collor pallete https://colorhunt.co/palette/cd5d7df6ecf0a7c5eb949cdf
